@@ -10,7 +10,7 @@ setup(
     author_email='core@etherfurnace.com',
     classifiers=[],
     keywords='',
-    install_requires=['logzero', 'tqdm'],
+    install_requires=['logzero==1.5.0', 'tqdm==4.62.2'],
     extras_require={},
     packages=find_packages(),
     package_data={},
