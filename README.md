@@ -6,7 +6,7 @@ a cookiecutter template to startup python application quickly
 
 ```
 pip install cookiecutter
-cookiecutter https://github.com/etherfurnace/pip-sdk-cookiecutter.git
+cookiecutter https://github.com/core-etherfurnace/pip-sdk-cookiecutter.git
 ```
 
 # Parameter
